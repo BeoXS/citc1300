@@ -1,2 +1,1 @@
-# citc1300
-HTML &amp; CSS
+# citc1300 Project Page
